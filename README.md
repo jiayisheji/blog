@@ -6,3 +6,4 @@
 3. [npm常用你应该懂的使用技巧](https://github.com/jiayisheji/blog/issues/5)
 4. [10分钟教你撸一个nodejs爬虫系统](https://github.com/jiayisheji/blog/issues/7)
 5. [RxJS学习笔记](https://github.com/jiayisheji/blog/issues/9)
+6. [Karma+Jasmine+istanbul+webpack自动化单元测试](https://github.com/jiayisheji/blog/issues/10)
