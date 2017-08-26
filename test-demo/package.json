@@ -1,0 +1,32 @@
+{
+    "name": "test-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "unit": "karma start"
+    },
+    "keywords": [],
+    "author": {
+      "name": "jiayi",
+      "url": "https://github.com/jiayisheji"
+    },
+    "homepage": "https://github.com/jiayisheji/blog",
+    "license": "ISC",
+    "devDependencies": {
+        "babel-core": "^6.26.0",
+        "babel-loader": "^7.1.2",
+        "babel-plugin-istanbul": "^4.1.4",
+        "babel-preset-es2015": "^6.24.1",
+        "istanbul-instrumenter-loader": "^3.0.0",
+        "jasmine-core": "^2.8.0",
+        "karma": "^1.7.0",
+        "karma-chrome-launcher": "^2.2.0",
+        "karma-coverage-istanbul-reporter": "^1.3.0",
+        "karma-jasmine": "^1.1.0",
+        "karma-sourcemap-loader": "^0.3.7",
+        "karma-webpack": "^2.0.4",
+        "webpack": "^3.5.5"
+    }
+}
