@@ -9,3 +9,7 @@
 6. [Karma+Jasmine+istanbul+webpack自动化单元测试](https://github.com/jiayisheji/blog/issues/10)
 7. [GET新技能之Git commit message](https://github.com/jiayisheji/blog/issues/12)
 8. [愉快使用Angular-cli构建项目](https://github.com/jiayisheji/blog/issues/13)
+
+## 2018年
+
+1. [学习Angular从入门到放弃](https://github.com/jiayisheji/blog/issues/16)
