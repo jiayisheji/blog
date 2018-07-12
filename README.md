@@ -13,3 +13,4 @@
 ## 2018年
 
 1. [学习Angular从入门到放弃](https://github.com/jiayisheji/blog/issues/16)
+2. [使用 Angular6 创建一个 CRUD 应用程序--Todolist](https://github.com/jiayisheji/blog/issues/17)
