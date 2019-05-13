@@ -16,7 +16,8 @@
 2. [使用 Angular6 创建一个 CRUD 应用程序--Todolist](https://github.com/jiayisheji/blog/issues/17)
 3. [让我们用Nestjs来重写一个CNode(上)](https://github.com/jiayisheji/blog/issues/18)
 
-## 2018年
+## 2019年
 
 1. [一招让Angular-cli速度增强](https://github.com/jiayisheji/blog/issues/22)
 2. [让我们用Nestjs来重写一个CNode(中)](https://github.com/jiayisheji/blog/issues/19)
+3. [Angular常见错误及解决方案【持续更新中】](https://github.com/jiayisheji/blog/issues/24)
