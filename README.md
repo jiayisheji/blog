@@ -23,3 +23,7 @@
 3. [Angular常见错误及解决方案【持续更新中】](https://github.com/jiayisheji/blog/issues/24)
 4. [使用angular schematics快速生成代码](https://github.com/jiayisheji/blog/issues/28)
 5. [类与数据结构](https://github.com/jiayisheji/blog/issues/29)
+
+## 2020年
+
+1. [在NestJS中使用Typegoose分享](https://github.com/jiayisheji/blog/issues/30)
