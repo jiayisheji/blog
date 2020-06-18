@@ -27,3 +27,4 @@
 ## 2020年
 
 1. [在NestJS中使用Typegoose分享](https://github.com/jiayisheji/blog/issues/30)
+2. [JavaScript中最常用的几种数组操作](https://github.com/jiayisheji/blog/issues/31)
