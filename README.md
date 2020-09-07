@@ -28,3 +28,4 @@
 
 1. [在NestJS中使用Typegoose分享](https://github.com/jiayisheji/blog/issues/30)
 2. [JavaScript中最常用的几种数组操作](https://github.com/jiayisheji/blog/issues/31)
+3. [Angular 事件绑定扩展增强 - Angular Events Plugin](https://github.com/jiayisheji/blog/issues/33)
