@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Jiayi blog",
+  "keywords": [
+    "js",
+    "blog"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiayisheji/blog"
+  },
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "jiayi",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
