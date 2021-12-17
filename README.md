@@ -29,3 +29,9 @@
 1. [在NestJS中使用Typegoose分享](https://github.com/jiayisheji/blog/issues/30)
 2. [JavaScript中最常用的几种数组操作](https://github.com/jiayisheji/blog/issues/31)
 3. [Angular 事件绑定扩展增强 - Angular Events Plugin](https://github.com/jiayisheji/blog/issues/33)
+
+## 2021年
+
+1. [TypeScript 指南](https://github.com/jiayisheji/blog/issues/44)
+2. [TypeScript 实现依赖注入](https://github.com/jiayisheji/blog/issues/45)
+3. [学习 TypeScript 中的内置实用工具类型](https://github.com/jiayisheji/blog/issues/46)
