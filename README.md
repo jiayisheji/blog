@@ -35,3 +35,7 @@
 1. [TypeScript 指南](https://github.com/jiayisheji/blog/issues/44)
 2. [TypeScript 实现依赖注入](https://github.com/jiayisheji/blog/issues/45)
 3. [学习 TypeScript 中的内置实用工具类型](https://github.com/jiayisheji/blog/issues/46)
+
+## 2022年
+
+1. [第一次使用Typeorm的挖坑总结](https://github.com/jiayisheji/blog/issues/54)
